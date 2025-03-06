@@ -19,7 +19,7 @@
             }
 
             $this->plugin_slug = dirname(plugin_basename(__DIR__));
-            $this->version = '1.0.000';
+            $this->version = '1.0.003';
             $this->cache_key = 'vividvoting_updater';
             $this->cache_allowed = false;
 

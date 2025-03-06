@@ -10,7 +10,7 @@
      * Plugin Name:       Vivid Voting
      * Plugin URI:        https://plugins.vivideverywhere.co.uk/voting/
      * Description:       Custom voting system for WordPress
-     * Version:           1.0.002
+     * Version:           1.0.003
      * Author:            Vivid Everywhere
      * Author URI:        https://vivideverywhere.co.uk/
      * License:           MIT
