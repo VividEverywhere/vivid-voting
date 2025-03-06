@@ -130,4 +130,13 @@
 
             return $transient;
         }
+
+        public function purge( $options ) {
+
+            if ( $this->cache_allowed && 'update' === $options['action'] && 'plugin' === $options[ 'type' ] ) {
+                // just clean the cache when new plugin version is installed
+                delete_transient( $this->cache_key );
+            }
+
+        }
     }
