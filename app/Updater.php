@@ -83,7 +83,6 @@
             $response->requires = $remote->requires;
             $response->author = $remote->author;
             $response->author_profile = $remote->author_profile;
-            $response->donate_link = $remote->donate_link;
             $response->homepage = $remote->homepage;
             $response->download_link = $remote->download_url;
             $response->trunk = $remote->download_url;

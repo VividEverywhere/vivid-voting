@@ -3,14 +3,14 @@
      * The plugin bootstrap file
      *
      * @link              https://vivideverywhere.co.uk/
-     * @since             1.0.0
+     * @since             1.0.000
      * @package           Vivid Voting
      *
      * @wordpress-plugin
      * Plugin Name:       Vivid Voting
      * Plugin URI:        https://plugins.vivideverywhere.co.uk/voting/
      * Description:       Custom voting system for WordPress
-     * Version:           1.0.000
+     * Version:           1.0.001
      * Author:            Vivid Everywhere
      * Author URI:        https://vivideverywhere.co.uk/
      * License:           MIT
